@@ -130,10 +130,3 @@ Web Developer                   Aug 2013 – Apr 2017  QPI Square Pvt Ltd, India
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jasim-z&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-</div>
