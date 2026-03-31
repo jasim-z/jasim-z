@@ -118,6 +118,9 @@ Web Developer                   Aug 2013 – Apr 2017  QPI Square Pvt Ltd, India
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jasim-z&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasim-z&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
