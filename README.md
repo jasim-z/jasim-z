@@ -1,4 +1,3 @@
-<div align="center">
 
 ### 👨‍💻 About Me
 
@@ -6,7 +5,6 @@ Senior Software Engineer with **11+ years** of experience building and scaling p
 
 Currently operating as an **Independent Product Engineer**, leading end-to-end development of multiple SaaS and mobile products.
 
-</div>
 
 ---
 
