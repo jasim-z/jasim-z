@@ -110,6 +110,10 @@ Web Developer                   Aug 2013 – Apr 2017  QPI Square Pvt Ltd, India
 
 ---
 
+![Jasim's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jasim-z&theme=react-dark&hide_border=true)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
